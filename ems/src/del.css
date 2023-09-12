@@ -1,0 +1,10 @@
+.-btn button {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+.bt button {
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
